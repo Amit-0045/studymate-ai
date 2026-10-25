@@ -23,7 +23,7 @@ An AI-powered study assistant that transforms PDF notes into summaries, interact
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Amit-0045/studymate-ai.git
 cd studymate-ai
 ```
 
