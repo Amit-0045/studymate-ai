@@ -35,7 +35,7 @@ python -m venv .venv
 
 Activate it on Windows:
 
-```bash
+```powershell
 .venv\Scripts\activate
 ```
 
@@ -47,14 +47,14 @@ pip install -r requirements.txt
 
 ### 4. Configure your API key
 
-Create a `.env` file in the project folder:
+Create a `.env` file in the project folder and add:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
 GROQ_MODEL=openai/gpt-oss-20b
 ```
 
-Replace the placeholder with your own API key. Never upload your real API key to GitHub.
+Replace the placeholder with your own Groq API key. Never upload your real API key to GitHub.
 
 ### 5. Run the application
 
